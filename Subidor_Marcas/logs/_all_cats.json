@@ -1,0 +1,1898 @@
+[
+ {
+  "id": "6",
+  "text": "Alimentos y bebidas"
+ },
+ {
+  "id": "26",
+  "text": "> Cereales, galletas y dulces"
+ },
+ {
+  "id": "31",
+  "text": "> Mieles untables"
+ },
+ {
+  "id": "29",
+  "text": "> Dulces"
+ },
+ {
+  "id": "28",
+  "text": "> Chocolates"
+ },
+ {
+  "id": "27",
+  "text": "> Cereales"
+ },
+ {
+  "id": "30",
+  "text": "> Galletas"
+ },
+ {
+  "id": "32",
+  "text": "> Leche líquida y en polvo"
+ },
+ {
+  "id": "33",
+  "text": "> Bebidas vegetales"
+ },
+ {
+  "id": "34",
+  "text": "> Leches en polvo"
+ },
+ {
+  "id": "35",
+  "text": "> Leches líquidas"
+ },
+ {
+  "id": "23",
+  "text": "> Café y chocolate en polvo"
+ },
+ {
+  "id": "24",
+  "text": "> Café soluble"
+ },
+ {
+  "id": "25",
+  "text": "> Chocolates en polvo"
+ },
+ {
+  "id": "19",
+  "text": "> Botanas"
+ },
+ {
+  "id": "20",
+  "text": "> Frutos"
+ },
+ {
+  "id": "21",
+  "text": "> Palomitas"
+ },
+ {
+  "id": "22",
+  "text": "> Snacks"
+ },
+ {
+  "id": "13",
+  "text": "> Bebidas"
+ },
+ {
+  "id": "14",
+  "text": "> Aguas purificadas"
+ },
+ {
+  "id": "18",
+  "text": "> Jugos y néctares"
+ },
+ {
+  "id": "17",
+  "text": "> Refrescos"
+ },
+ {
+  "id": "16",
+  "text": "> Bebidas isotónicas"
+ },
+ {
+  "id": "15",
+  "text": "> Aguas saborizadas"
+ },
+ {
+  "id": "7",
+  "text": "> Alimentos sin azucar"
+ },
+ {
+  "id": "12",
+  "text": "> Sustitutos de azúcar"
+ },
+ {
+  "id": "8",
+  "text": "> Cereales, galletas y granolas"
+ },
+ {
+  "id": "9",
+  "text": "> Dulces y chocolates"
+ },
+ {
+  "id": "10",
+  "text": "> Otros alimentos sin azúcar"
+ },
+ {
+  "id": "11",
+  "text": "> Suplementos alimenticios"
+ },
+ {
+  "id": "273",
+  "text": "Equipo y botiquín"
+ },
+ {
+  "id": "274",
+  "text": "> Aparatos de medición"
+ },
+ {
+  "id": "275",
+  "text": "> Baumanómetros"
+ },
+ {
+  "id": "276",
+  "text": "> Detector preventivo"
+ },
+ {
+  "id": "277",
+  "text": "> Glucómetros"
+ },
+ {
+  "id": "278",
+  "text": "> Oxímetro"
+ },
+ {
+  "id": "279",
+  "text": "> Termómetros"
+ },
+ {
+  "id": "280",
+  "text": "> Test antidoping"
+ },
+ {
+  "id": "281",
+  "text": "> Tiras y lancetas"
+ },
+ {
+  "id": "282",
+  "text": "> Baterías alcalinas"
+ },
+ {
+  "id": "283",
+  "text": "> Pilas"
+ },
+ {
+  "id": "284",
+  "text": "> Equipo y accesorios médicos"
+ },
+ {
+  "id": "285",
+  "text": "> Equipos respiratorios"
+ },
+ {
+  "id": "286",
+  "text": "> Esenciales Covid"
+ },
+ {
+  "id": "287",
+  "text": "> Agua Destilada"
+ },
+ {
+  "id": "288",
+  "text": "> Antisépticos"
+ },
+ {
+  "id": "289",
+  "text": "> Cubrebocas"
+ },
+ {
+  "id": "290",
+  "text": "> Desinfectantes"
+ },
+ {
+  "id": "291",
+  "text": "> Gel Antibacterial"
+ },
+ {
+  "id": "292",
+  "text": "> Guantes"
+ },
+ {
+  "id": "293",
+  "text": "> Protectores Faciales"
+ },
+ {
+  "id": "294",
+  "text": "> Material de curación"
+ },
+ {
+  "id": "295",
+  "text": "> Algodones y pads"
+ },
+ {
+  "id": "296",
+  "text": "> Antisép,alcohol,agua oxigenada"
+ },
+ {
+  "id": "297",
+  "text": "> Jeringas y agujas"
+ },
+ {
+  "id": "298",
+  "text": "> Material quirúrgico"
+ },
+ {
+  "id": "299",
+  "text": "> Otros accesorios de curación"
+ },
+ {
+  "id": "300",
+  "text": "> Parches y telas adhesivas"
+ },
+ {
+  "id": "301",
+  "text": "> Vendas y gasas"
+ },
+ {
+  "id": "302",
+  "text": "> Ortopedia"
+ },
+ {
+  "id": "303",
+  "text": "> Auxiliar de reposo y descanso"
+ },
+ {
+  "id": "304",
+  "text": "> Auxiliares de movilidad"
+ },
+ {
+  "id": "305",
+  "text": "> Auxiliares respiratorios"
+ },
+ {
+  "id": "306",
+  "text": "> Protección y rehabilitación"
+ },
+ {
+  "id": "307",
+  "text": "> Protectores auditivos"
+ },
+ {
+  "id": "308",
+  "text": "> Podología"
+ },
+ {
+  "id": "309",
+  "text": "> Correctores y protectores"
+ },
+ {
+  "id": "310",
+  "text": "> Medias y calcetines"
+ },
+ {
+  "id": "311",
+  "text": "> Plantillas y taloneras"
+ },
+ {
+  "id": "312",
+  "text": "Mascotas"
+ },
+ {
+  "id": "313",
+  "text": "> Gatos"
+ },
+ {
+  "id": "314",
+  "text": "> Alimento para gatos"
+ },
+ {
+  "id": "315",
+  "text": "Medicamentos"
+ },
+ {
+  "id": "316",
+  "text": "> Antimicóticos"
+ },
+ {
+  "id": "317",
+  "text": "> Aerosoles"
+ },
+ {
+  "id": "318",
+  "text": "> Cremas, pomadas y ungüentos"
+ },
+ {
+  "id": "319",
+  "text": "> Geles"
+ },
+ {
+  "id": "320",
+  "text": "> Polvos y talcos"
+ },
+ {
+  "id": "321",
+  "text": "> Soluciones"
+ },
+ {
+  "id": "322",
+  "text": "> Tabletas"
+ },
+ {
+  "id": "323",
+  "text": "> Dermatológicos"
+ },
+ {
+  "id": "324",
+  "text": "> Capilares"
+ },
+ {
+  "id": "325",
+  "text": "> Cicatrizantes"
+ },
+ {
+  "id": "326",
+  "text": "> Dermatitis"
+ },
+ {
+  "id": "327",
+  "text": "> Gel dermatológico"
+ },
+ {
+  "id": "328",
+  "text": "> Jabones dermatológicos"
+ },
+ {
+  "id": "329",
+  "text": "> Tratamientos antiacné"
+ },
+ {
+  "id": "330",
+  "text": "> Tratamientos dermatológicos"
+ },
+ {
+  "id": "331",
+  "text": "> Dolor"
+ },
+ {
+  "id": "332",
+  "text": "> Analgésicos"
+ },
+ {
+  "id": "333",
+  "text": "> Analgésicos Infantil"
+ },
+ {
+  "id": "334",
+  "text": "> Anestésicos"
+ },
+ {
+  "id": "335",
+  "text": "> Cólicos"
+ },
+ {
+  "id": "336",
+  "text": "> Hemorroides"
+ },
+ {
+  "id": "337",
+  "text": "> Musculares y desinflamatorios"
+ },
+ {
+  "id": "338",
+  "text": "> Especialidades médicas"
+ },
+ {
+  "id": "339",
+  "text": "> A - B"
+ },
+ {
+  "id": "340",
+  "text": "> C - D"
+ },
+ {
+  "id": "341",
+  "text": "> E - F"
+ },
+ {
+  "id": "342",
+  "text": "> G - H"
+ },
+ {
+  "id": "343",
+  "text": "> I - J"
+ },
+ {
+  "id": "344",
+  "text": "> K - L"
+ },
+ {
+  "id": "345",
+  "text": "> M - N"
+ },
+ {
+  "id": "346",
+  "text": "> O - P"
+ },
+ {
+  "id": "347",
+  "text": "> Q - R"
+ },
+ {
+  "id": "348",
+  "text": "> S - T"
+ },
+ {
+  "id": "349",
+  "text": "> U - V"
+ },
+ {
+  "id": "350",
+  "text": "> X - Y - Z"
+ },
+ {
+  "id": "351",
+  "text": "> Estomacal"
+ },
+ {
+  "id": "352",
+  "text": "> Antiácidos"
+ },
+ {
+  "id": "353",
+  "text": "> Antidiarréicos"
+ },
+ {
+  "id": "354",
+  "text": "> Antiulcerosos"
+ },
+ {
+  "id": "355",
+  "text": "> Digestivos"
+ },
+ {
+  "id": "356",
+  "text": "> Dolor y malestar"
+ },
+ {
+  "id": "357",
+  "text": "> Higiene anal"
+ },
+ {
+  "id": "358",
+  "text": "> Laxantes"
+ },
+ {
+  "id": "359",
+  "text": "> Parásitos"
+ },
+ {
+  "id": "360",
+  "text": "> Reductores de peso"
+ },
+ {
+  "id": "361",
+  "text": "> Sueros orales"
+ },
+ {
+  "id": "362",
+  "text": "> Genéricos"
+ },
+ {
+  "id": "363",
+  "text": "> A - B - C - D"
+ },
+ {
+  "id": "364",
+  "text": "> E - F - G - H"
+ },
+ {
+  "id": "365",
+  "text": "> I - J - K - L"
+ },
+ {
+  "id": "366",
+  "text": "> M - N - O - P"
+ },
+ {
+  "id": "367",
+  "text": "> Q - R - S - T"
+ },
+ {
+  "id": "368",
+  "text": "> V - W - X - Y - Z"
+ },
+ {
+  "id": "369",
+  "text": "> Gripe y tos"
+ },
+ {
+  "id": "370",
+  "text": "> Antialérgicas"
+ },
+ {
+  "id": "371",
+  "text": "> Antigripales"
+ },
+ {
+  "id": "372",
+  "text": "> Aparatos de diagnósticos"
+ },
+ {
+  "id": "373",
+  "text": "> Descongestionantes"
+ },
+ {
+  "id": "374",
+  "text": "> Garganta Irritada"
+ },
+ {
+  "id": "375",
+  "text": "> Humidificadores"
+ },
+ {
+  "id": "376",
+  "text": "> Inhaladores"
+ },
+ {
+  "id": "377",
+  "text": "> Nebulizadores"
+ },
+ {
+  "id": "378",
+  "text": "> Tos"
+ },
+ {
+  "id": "379",
+  "text": "> Oftálmicos"
+ },
+ {
+  "id": "380",
+  "text": "> Toallitas_húmedas"
+ },
+ {
+  "id": "381",
+  "text": "> Higiene lentes de contacto"
+ },
+ {
+  "id": "382",
+  "text": "> Inflamación - Infección"
+ },
+ {
+  "id": "383",
+  "text": "> Lágrimas artificiales"
+ },
+ {
+  "id": "384",
+  "text": "> Lentes de Contacto"
+ },
+ {
+  "id": "385",
+  "text": "> Lentes para lectura"
+ },
+ {
+  "id": "386",
+  "text": "> Lubricantes oculares"
+ },
+ {
+  "id": "387",
+  "text": "> Oftalmológicos"
+ },
+ {
+  "id": "388",
+  "text": "> Preparación lentes contacto"
+ },
+ {
+  "id": "389",
+  "text": "> Tónicos - Vitaminas"
+ },
+ {
+  "id": "390",
+  "text": "> Relajantes"
+ },
+ {
+  "id": "391",
+  "text": "> Antitabaquismo"
+ },
+ {
+  "id": "392",
+  "text": "> Relajantes."
+ },
+ {
+  "id": "393",
+  "text": "> Supervisión médica"
+ },
+ {
+  "id": "394",
+  "text": "> A - B - C"
+ },
+ {
+  "id": "395",
+  "text": "> D - E - F"
+ },
+ {
+  "id": "396",
+  "text": "> G - H - I"
+ },
+ {
+  "id": "397",
+  "text": "> J - K - L"
+ },
+ {
+  "id": "398",
+  "text": "> M - N - O"
+ },
+ {
+  "id": "399",
+  "text": "> P - Q - R"
+ },
+ {
+  "id": "400",
+  "text": "> S - T - U"
+ },
+ {
+  "id": "401",
+  "text": "> V - W -X"
+ },
+ {
+  "id": "402",
+  "text": "> Y - Z"
+ },
+ {
+  "id": "403",
+  "text": "> Tratamientos"
+ },
+ {
+  "id": "404",
+  "text": "> Sistema circulatorio"
+ },
+ {
+  "id": "405",
+  "text": "> Várices"
+ },
+ {
+  "id": "406",
+  "text": "> Cuidado de piernas"
+ },
+ {
+  "id": "407",
+  "text": "Salud Natural"
+ },
+ {
+  "id": "408",
+  "text": "> Alimentos, Bebidas"
+ },
+ {
+  "id": "409",
+  "text": "> Alimentos"
+ },
+ {
+  "id": "410",
+  "text": "> Bebidas."
+ },
+ {
+  "id": "411",
+  "text": "> Botanas."
+ },
+ {
+  "id": "412",
+  "text": "> Infusiones"
+ },
+ {
+  "id": "413",
+  "text": "> Super foods"
+ },
+ {
+  "id": "414",
+  "text": "> Cuidado Personal"
+ },
+ {
+  "id": "415",
+  "text": "> Cuidado e higiene bucal"
+ },
+ {
+  "id": "416",
+  "text": "> Cuidados de bebés y niños"
+ },
+ {
+  "id": "417",
+  "text": "> Cuidado para la Piel"
+ },
+ {
+  "id": "418",
+  "text": "> Aceites naturales y sales"
+ },
+ {
+  "id": "419",
+  "text": "> Aromaterapia"
+ },
+ {
+  "id": "420",
+  "text": "> Cosmética natural"
+ },
+ {
+  "id": "421",
+  "text": "> Cuidado para el cabello"
+ },
+ {
+  "id": "422",
+  "text": "> Higiene, y protección femenina"
+ },
+ {
+  "id": "423",
+  "text": "> Herbolaria y Homeopatía"
+ },
+ {
+  "id": "424",
+  "text": "> Auxiliar Control de adicciones"
+ },
+ {
+  "id": "425",
+  "text": "> Auxiliares Detox y hepatopatía"
+ },
+ {
+  "id": "426",
+  "text": "> Circulación"
+ },
+ {
+  "id": "427",
+  "text": "> Digestión"
+ },
+ {
+  "id": "428",
+  "text": "> Flores de Bach"
+ },
+ {
+  "id": "429",
+  "text": "> Genitourinario"
+ },
+ {
+  "id": "430",
+  "text": "> Memoria"
+ },
+ {
+  "id": "431",
+  "text": "> Metabolismo"
+ },
+ {
+  "id": "432",
+  "text": "> Músculos y articulaciones"
+ },
+ {
+  "id": "433",
+  "text": "> Oftalmología"
+ },
+ {
+  "id": "434",
+  "text": "> Pediatría"
+ },
+ {
+  "id": "435",
+  "text": "> Piel"
+ },
+ {
+  "id": "436",
+  "text": "> Relajación y sueño"
+ },
+ {
+  "id": "437",
+  "text": "> Salud femenina"
+ },
+ {
+  "id": "438",
+  "text": "> Vías respiratorias alergias"
+ },
+ {
+  "id": "439",
+  "text": "> Vitaminas y Suplementos"
+ },
+ {
+  "id": "440",
+  "text": "> Vitaminas y Minerales"
+ },
+ {
+  "id": "441",
+  "text": "> Probióticos"
+ },
+ {
+  "id": "442",
+  "text": "> Proteínas"
+ },
+ {
+  "id": "443",
+  "text": "> Suplementos"
+ },
+ {
+  "id": "444",
+  "text": "Salud sexual"
+ },
+ {
+  "id": "445",
+  "text": "> Bienestar sexual"
+ },
+ {
+  "id": "446",
+  "text": "> Accesorios y juguetes"
+ },
+ {
+  "id": "447",
+  "text": "> Lubricantes vaginales"
+ },
+ {
+  "id": "448",
+  "text": "> Preservativos"
+ },
+ {
+  "id": "449",
+  "text": "> Pruebas"
+ },
+ {
+  "id": "450",
+  "text": "> Vigorizantes"
+ },
+ {
+  "id": "451",
+  "text": "Vitaminas y  suplementos"
+ },
+ {
+  "id": "452",
+  "text": "> Nutrición Deportiva"
+ },
+ {
+  "id": "453",
+  "text": "> Complementos"
+ },
+ {
+  "id": "454",
+  "text": "> Proteína"
+ },
+ {
+  "id": "455",
+  "text": "> Suplementos  alimenticios"
+ },
+ {
+  "id": "456",
+  "text": "> Suplementos y complementos"
+ },
+ {
+  "id": "457",
+  "text": "> Vitamínicos"
+ },
+ {
+  "id": "458",
+  "text": "> Vitaminas  y Minerales"
+ },
+ {
+  "id": "459",
+  "text": "> Antioxidantes"
+ },
+ {
+  "id": "460",
+  "text": "> Belleza"
+ },
+ {
+  "id": "461",
+  "text": "> Bienestar visual"
+ },
+ {
+  "id": "462",
+  "text": "> Calcios"
+ },
+ {
+  "id": "463",
+  "text": "> Colágeno"
+ },
+ {
+  "id": "464",
+  "text": "> Colesterol"
+ },
+ {
+  "id": "465",
+  "text": "> Complementos vitamínicos"
+ },
+ {
+  "id": "466",
+  "text": "> Control de peso"
+ },
+ {
+  "id": "467",
+  "text": "> Huesos sanos"
+ },
+ {
+  "id": "468",
+  "text": "> Movilidad"
+ },
+ {
+  "id": "469",
+  "text": "> Mujer"
+ },
+ {
+  "id": "470",
+  "text": "> Multivitamínicos"
+ },
+ {
+  "id": "471",
+  "text": "> Naturistas"
+ },
+ {
+  "id": "472",
+  "text": "> Osteoartritis"
+ },
+ {
+  "id": "473",
+  "text": "> Prevención de resfriado"
+ },
+ {
+  "id": "474",
+  "text": "> Probióticos y Prebióticos"
+ },
+ {
+  "id": "475",
+  "text": "> Rendimiento mental"
+ },
+ {
+  "id": "476",
+  "text": "> Sistema inmune"
+ },
+ {
+  "id": "477",
+  "text": "> Univitaminas abcde"
+ },
+ {
+  "id": "478",
+  "text": "> Vitalidad y desempeño"
+ },
+ {
+  "id": "194",
+  "text": "Dermocosméticos"
+ },
+ {
+  "id": "195",
+  "text": "> Capilar"
+ },
+ {
+  "id": "196",
+  "text": "> Anticaída"
+ },
+ {
+  "id": "197",
+  "text": "> Anticaspa"
+ },
+ {
+  "id": "198",
+  "text": "> Cabello graso"
+ },
+ {
+  "id": "199",
+  "text": "> Coloración"
+ },
+ {
+  "id": "200",
+  "text": "> Cuero cabelludo sensible"
+ },
+ {
+  "id": "201",
+  "text": "> Hidratación capilar"
+ },
+ {
+  "id": "202",
+  "text": "> Kits capilares"
+ },
+ {
+  "id": "203",
+  "text": "> Limpieza"
+ },
+ {
+  "id": "231",
+  "text": "> Facial"
+ },
+ {
+  "id": "232",
+  "text": "> Limpieza_facial"
+ },
+ {
+  "id": "236",
+  "text": "> Anti-edad facial"
+ },
+ {
+  "id": "237",
+  "text": "> Atopia facial"
+ },
+ {
+  "id": "238",
+  "text": "> Cuidado de pestañas y ceja"
+ },
+ {
+  "id": "239",
+  "text": "> Despigmentantes faciales"
+ },
+ {
+  "id": "240",
+  "text": "> Hidratación facial"
+ },
+ {
+  "id": "241",
+  "text": "> Kits faciales"
+ },
+ {
+  "id": "242",
+  "text": "> Maquillaje"
+ },
+ {
+  "id": "243",
+  "text": "> Piel grasa facial"
+ },
+ {
+  "id": "244",
+  "text": "> Piel sensible"
+ },
+ {
+  "id": "245",
+  "text": "> Protectores solares faciales"
+ },
+ {
+  "id": "246",
+  "text": "> Tratamientos vitiligo facial"
+ },
+ {
+  "id": "247",
+  "text": "> Nutricosmeticos"
+ },
+ {
+  "id": "248",
+  "text": "> Anticaída vía oral"
+ },
+ {
+  "id": "270",
+  "text": "> Anti-edad vía oral"
+ },
+ {
+  "id": "271",
+  "text": "> Antioxidantes vía oral"
+ },
+ {
+  "id": "272",
+  "text": "> Protectores solares vía oral"
+ },
+ {
+  "id": "204",
+  "text": "> Corporal"
+ },
+ {
+  "id": "205",
+  "text": "> Anestésicos locales"
+ },
+ {
+  "id": "206",
+  "text": "> Aseo e higiene corporal"
+ },
+ {
+  "id": "207",
+  "text": "> Atopia corporal"
+ },
+ {
+  "id": "208",
+  "text": "> Cuidado de uñas"
+ },
+ {
+  "id": "209",
+  "text": "> Cuidado e higiene intimo"
+ },
+ {
+  "id": "210",
+  "text": "> Desodorantes-antitranspirantes"
+ },
+ {
+  "id": "211",
+  "text": "> Despigmentantes corporales"
+ },
+ {
+  "id": "212",
+  "text": "> Hidratación corporal"
+ },
+ {
+  "id": "213",
+  "text": "> Kits corporales"
+ },
+ {
+  "id": "214",
+  "text": "> Piel grasa corporal"
+ },
+ {
+  "id": "215",
+  "text": "> Piel sensible corporal"
+ },
+ {
+  "id": "216",
+  "text": "> Protectores solares corporales"
+ },
+ {
+  "id": "217",
+  "text": "> Tratamiento para híperhidrosis"
+ },
+ {
+  "id": "218",
+  "text": "> Tratamientos anticelulitis"
+ },
+ {
+  "id": "219",
+  "text": "> Tratamientos antiestrías"
+ },
+ {
+  "id": "220",
+  "text": "> Tratamientos antifúngicos"
+ },
+ {
+  "id": "221",
+  "text": "> Tratamientos de pie diabetico"
+ },
+ {
+  "id": "222",
+  "text": "> Tratamientos para cicatrices"
+ },
+ {
+  "id": "223",
+  "text": "> Tratamientos para piernas"
+ },
+ {
+  "id": "224",
+  "text": "> Tratamientos para descamar"
+ },
+ {
+  "id": "225",
+  "text": "> Tratamientos para psoriasis"
+ },
+ {
+  "id": "226",
+  "text": "> Tratamientos para queratosis"
+ },
+ {
+  "id": "227",
+  "text": "> Tratamientos para verrugas"
+ },
+ {
+  "id": "228",
+  "text": "> Tratamientos reafirmantes"
+ },
+ {
+  "id": "229",
+  "text": "> Tratamientos vitiligo corporal"
+ },
+ {
+  "id": "109",
+  "text": "Cuidado personal y belleza"
+ },
+ {
+  "id": "110",
+  "text": "> Accesorios de cabello"
+ },
+ {
+  "id": "111",
+  "text": "> Broches"
+ },
+ {
+  "id": "112",
+  "text": "> Cepillos"
+ },
+ {
+  "id": "113",
+  "text": "> Diademas"
+ },
+ {
+  "id": "114",
+  "text": "> Ligas"
+ },
+ {
+  "id": "249",
+  "text": "> Cuidados de la piel"
+ },
+ {
+  "id": "250",
+  "text": "> Corporales"
+ },
+ {
+  "id": "251",
+  "text": "> Contorno ojos"
+ },
+ {
+  "id": "252",
+  "text": "> Faciales"
+ },
+ {
+  "id": "253",
+  "text": "> Pies y manos"
+ },
+ {
+  "id": "254",
+  "text": "> Protectores de sol"
+ },
+ {
+  "id": "255",
+  "text": "> Protectores para labios"
+ },
+ {
+  "id": "256",
+  "text": "> Talcos y colonias"
+ },
+ {
+  "id": "257",
+  "text": "> Toallitas desmaquillantes"
+ },
+ {
+  "id": "258",
+  "text": "> Toallitas exfoliantes"
+ },
+ {
+  "id": "259",
+  "text": "> Toallitas limpiadoras"
+ },
+ {
+  "id": "260",
+  "text": "> Cuidados del cabello"
+ },
+ {
+  "id": "261",
+  "text": "> Acondicionadores"
+ },
+ {
+  "id": "262",
+  "text": "> Cremas para peinar"
+ },
+ {
+  "id": "263",
+  "text": "> Fijadores"
+ },
+ {
+  "id": "264",
+  "text": "> Shampoos"
+ },
+ {
+  "id": "265",
+  "text": "> Tintes"
+ },
+ {
+  "id": "266",
+  "text": "> Tratamientos capilares"
+ },
+ {
+  "id": "267",
+  "text": "> Cuidado del hogar"
+ },
+ {
+  "id": "268",
+  "text": "> Aerosoles desinfectantes"
+ },
+ {
+  "id": "269",
+  "text": "> Toallitas desinfectantes"
+ },
+ {
+  "id": "176",
+  "text": "> Higiene y protección femenina"
+ },
+ {
+  "id": "177",
+  "text": "> Copas menstruales"
+ },
+ {
+  "id": "178",
+  "text": "> Higiene femenina"
+ },
+ {
+  "id": "179",
+  "text": "> Pantiprotectores"
+ },
+ {
+  "id": "180",
+  "text": "> Tampones"
+ },
+ {
+  "id": "181",
+  "text": "> Toallas femeninas"
+ },
+ {
+  "id": "182",
+  "text": "> Incontinencia"
+ },
+ {
+  "id": "183",
+  "text": "> Ropa interior desechable"
+ },
+ {
+  "id": "184",
+  "text": "> Salvacamas"
+ },
+ {
+  "id": "185",
+  "text": "> Toallas para incontinencia"
+ },
+ {
+  "id": "186",
+  "text": "> Jabones"
+ },
+ {
+  "id": "187",
+  "text": "> Geles antibacteriales"
+ },
+ {
+  "id": "188",
+  "text": "> Jabones en barra"
+ },
+ {
+  "id": "189",
+  "text": "> Jabones líquidos"
+ },
+ {
+  "id": "190",
+  "text": "> Minis"
+ },
+ {
+  "id": "191",
+  "text": "> Unitarios"
+ },
+ {
+  "id": "230",
+  "text": "> Kits Minis"
+ },
+ {
+  "id": "192",
+  "text": "> Papel higiénico y pañuelos"
+ },
+ {
+  "id": "193",
+  "text": "> Papel higiénico, pañuelos"
+ },
+ {
+  "id": "167",
+  "text": "> Desodorante"
+ },
+ {
+  "id": "168",
+  "text": "> Barra-hombre"
+ },
+ {
+  "id": "169",
+  "text": "> Barra-mujer"
+ },
+ {
+  "id": "170",
+  "text": "> Barra-unisex"
+ },
+ {
+  "id": "174",
+  "text": "> Spray-hombre"
+ },
+ {
+  "id": "175",
+  "text": "> Spray-mujer"
+ },
+ {
+  "id": "171",
+  "text": "> Roll on-hombre"
+ },
+ {
+  "id": "172",
+  "text": "> Roll on-mujer"
+ },
+ {
+  "id": "173",
+  "text": "> Roll on-unisex"
+ },
+ {
+  "id": "123",
+  "text": "> Afeitado"
+ },
+ {
+  "id": "124",
+  "text": "> After shave-para hombre"
+ },
+ {
+  "id": "125",
+  "text": "> After shave-para mujer"
+ },
+ {
+  "id": "126",
+  "text": "> Cartucho-para hombre"
+ },
+ {
+  "id": "127",
+  "text": "> Cartucho-para mujer"
+ },
+ {
+  "id": "128",
+  "text": "> Espuma para afeitar-hombre"
+ },
+ {
+  "id": "129",
+  "text": "> Espuma para afeitar-mujer"
+ },
+ {
+  "id": "130",
+  "text": "> Gel para afeitar-hombre"
+ },
+ {
+  "id": "131",
+  "text": "> Gel para afeitar-mujer"
+ },
+ {
+  "id": "132",
+  "text": "> Rastrillo-para hombre"
+ },
+ {
+  "id": "133",
+  "text": "> Rastrillo-para mujer"
+ },
+ {
+  "id": "134",
+  "text": "> Artículos para viaje"
+ },
+ {
+  "id": "138",
+  "text": "> Accesorios para viaje"
+ },
+ {
+  "id": "135",
+  "text": "> Cuidado bucal"
+ },
+ {
+  "id": "136",
+  "text": "> Kits"
+ },
+ {
+  "id": "137",
+  "text": "> Limpieza facial"
+ },
+ {
+  "id": "139",
+  "text": "> Cuidado corporal"
+ },
+ {
+  "id": "140",
+  "text": "> Cuidado del cabello"
+ },
+ {
+  "id": "141",
+  "text": "> Cuidado facial"
+ },
+ {
+  "id": "142",
+  "text": "> Desinfectantes antibacteriales"
+ },
+ {
+  "id": "143",
+  "text": "> Desodorantes, antitranspirante"
+ },
+ {
+  "id": "144",
+  "text": "> Higiene para bebé"
+ },
+ {
+  "id": "145",
+  "text": "> Protector solar"
+ },
+ {
+  "id": "146",
+  "text": "> Cosméticos"
+ },
+ {
+  "id": "147",
+  "text": "> Delineadores"
+ },
+ {
+  "id": "148",
+  "text": "> Esmaltes"
+ },
+ {
+  "id": "149",
+  "text": "> Labiales"
+ },
+ {
+  "id": "150",
+  "text": "> Maquillajes"
+ },
+ {
+  "id": "151",
+  "text": "> Máscaras"
+ },
+ {
+  "id": "152",
+  "text": "> Polvos"
+ },
+ {
+  "id": "153",
+  "text": "> Rubores"
+ },
+ {
+  "id": "154",
+  "text": "> Sombras"
+ },
+ {
+  "id": "155",
+  "text": "> Cuidado_Bucal"
+ },
+ {
+  "id": "156",
+  "text": "> Accesorios dentales"
+ },
+ {
+  "id": "157",
+  "text": "> Cepillos dentales"
+ },
+ {
+  "id": "158",
+  "text": "> Enjuagues bucales"
+ },
+ {
+  "id": "159",
+  "text": "> Especializados"
+ },
+ {
+  "id": "160",
+  "text": "> Hilos dentales"
+ },
+ {
+  "id": "161",
+  "text": "> Ortodoncia"
+ },
+ {
+  "id": "162",
+  "text": "> Pastas dentales"
+ },
+ {
+  "id": "163",
+  "text": "> Depilación"
+ },
+ {
+  "id": "164",
+  "text": "> Ceras para depilar"
+ },
+ {
+  "id": "165",
+  "text": "> Cremas depiladoras"
+ },
+ {
+  "id": "166",
+  "text": "> Depiladores faciales"
+ },
+ {
+  "id": "115",
+  "text": "> Accesorios de pies y manos"
+ },
+ {
+  "id": "116",
+  "text": "> Alicates"
+ },
+ {
+  "id": "117",
+  "text": "> Bisturí"
+ },
+ {
+  "id": "118",
+  "text": "> Corta callos"
+ },
+ {
+  "id": "119",
+  "text": "> Corta uñas"
+ },
+ {
+  "id": "120",
+  "text": "> Limas"
+ },
+ {
+  "id": "121",
+  "text": "> Pies"
+ },
+ {
+  "id": "122",
+  "text": "> Tijeras"
+ },
+ {
+  "id": "36",
+  "text": "Bebés"
+ },
+ {
+  "id": "58",
+  "text": "> Cuidados del bebé"
+ },
+ {
+  "id": "63",
+  "text": "> Cuidado dental del bebé"
+ },
+ {
+  "id": "64",
+  "text": "> Pomadas y ungüentos"
+ },
+ {
+  "id": "65",
+  "text": "> Shampoos y jabones"
+ },
+ {
+  "id": "66",
+  "text": "> Talcos"
+ },
+ {
+  "id": "62",
+  "text": "> Cremas de bebé"
+ },
+ {
+  "id": "61",
+  "text": "> Aplicadores"
+ },
+ {
+  "id": "60",
+  "text": "> Aceites"
+ },
+ {
+  "id": "59",
+  "text": "> Toallitas húmedas"
+ },
+ {
+  "id": "107",
+  "text": "> Revistas"
+ },
+ {
+  "id": "108",
+  "text": "> Revista"
+ },
+ {
+  "id": "91",
+  "text": "> Pañales"
+ },
+ {
+  "id": "92",
+  "text": "> Niña-etapa 3"
+ },
+ {
+  "id": "93",
+  "text": "> Niña-etapa 4"
+ },
+ {
+  "id": "94",
+  "text": "> Niña-etapa 5"
+ },
+ {
+  "id": "95",
+  "text": "> Niña-etapa 6"
+ },
+ {
+  "id": "96",
+  "text": "> Niño-etapa 3"
+ },
+ {
+  "id": "97",
+  "text": "> Niño-etapa 4"
+ },
+ {
+  "id": "98",
+  "text": "> Niño-etapa 5"
+ },
+ {
+  "id": "99",
+  "text": "> Niño-etapa 6"
+ },
+ {
+  "id": "100",
+  "text": "> Unisex-etapa 1"
+ },
+ {
+  "id": "101",
+  "text": "> Unisex-etapa 2"
+ },
+ {
+  "id": "102",
+  "text": "> Unisex-etapa 3"
+ },
+ {
+  "id": "103",
+  "text": "> Unisex-etapa 4"
+ },
+ {
+  "id": "104",
+  "text": "> Unisex-etapa 5"
+ },
+ {
+  "id": "105",
+  "text": "> Unisex-etapa 6"
+ },
+ {
+  "id": "106",
+  "text": "> Unisex-etapa 7"
+ },
+ {
+  "id": "49",
+  "text": "> Alimentos para bebés"
+ },
+ {
+  "id": "57",
+  "text": "> Yogurts"
+ },
+ {
+  "id": "56",
+  "text": "> Papillas"
+ },
+ {
+  "id": "53",
+  "text": "> Alimentos orgánicos para bebé"
+ },
+ {
+  "id": "52",
+  "text": "> Aguas para bebés"
+ },
+ {
+  "id": "51",
+  "text": "> Accesorios de alimentación"
+ },
+ {
+  "id": "50",
+  "text": "> Cereal"
+ },
+ {
+  "id": "54",
+  "text": "> Jugos"
+ },
+ {
+  "id": "55",
+  "text": "> Leche en polvo"
+ },
+ {
+  "id": "89",
+  "text": "> Maternidad"
+ },
+ {
+  "id": "90",
+  "text": "> Cuidado de la piel"
+ },
+ {
+  "id": "84",
+  "text": "> Lactancia"
+ },
+ {
+  "id": "86",
+  "text": "> Extractores de leche"
+ },
+ {
+  "id": "88",
+  "text": "> Protectores de pezón"
+ },
+ {
+  "id": "87",
+  "text": "> Protectores de lactancia"
+ },
+ {
+  "id": "85",
+  "text": "> Bolsas para leche materna"
+ },
+ {
+  "id": "77",
+  "text": "> Fórmulas infantiles"
+ },
+ {
+  "id": "79",
+  "text": "> Especializadas"
+ },
+ {
+  "id": "80",
+  "text": "> Regulares-etapa 1"
+ },
+ {
+  "id": "81",
+  "text": "> Regulares-etapa 2"
+ },
+ {
+  "id": "82",
+  "text": "> Regulares-etapa 3"
+ },
+ {
+  "id": "83",
+  "text": "> Regulares-etapa 4"
+ },
+ {
+  "id": "78",
+  "text": "> Alimento para mamá"
+ },
+ {
+  "id": "67",
+  "text": "> Dermopediatría"
+ },
+ {
+  "id": "76",
+  "text": "> Toallitas húmedas bebé"
+ },
+ {
+  "id": "75",
+  "text": "> Talcos y aceites"
+ },
+ {
+  "id": "73",
+  "text": "> Repelente de mosquitos"
+ },
+ {
+  "id": "68",
+  "text": "> Cremas para bebé"
+ },
+ {
+  "id": "69",
+  "text": "> Cremas para sol"
+ },
+ {
+  "id": "70",
+  "text": "> Especiales para mamás"
+ },
+ {
+  "id": "71",
+  "text": "> Geles y jabones"
+ },
+ {
+  "id": "74",
+  "text": "> Shampoos para bebé"
+ },
+ {
+  "id": "72",
+  "text": "> Lociones y aguas de tocador"
+ },
+ {
+  "id": "37",
+  "text": "> Accesorios para bebé"
+ },
+ {
+  "id": "38",
+  "text": "> Cuidado de bebés y niños"
+ },
+ {
+  "id": "39",
+  "text": "> Aspiradores nasales"
+ },
+ {
+  "id": "40",
+  "text": "> Biberones y accesorios"
+ },
+ {
+  "id": "41",
+  "text": "> Chupones"
+ },
+ {
+  "id": "42",
+  "text": "> Higiene y cuidado"
+ },
+ {
+  "id": "43",
+  "text": "> Kit médico"
+ },
+ {
+  "id": "44",
+  "text": "> Mordederas"
+ },
+ {
+  "id": "45",
+  "text": "> Protectores de pezones"
+ },
+ {
+  "id": "46",
+  "text": "> Tetinas"
+ },
+ {
+  "id": "47",
+  "text": "> Utensilios para bebé"
+ },
+ {
+  "id": "48",
+  "text": "> Vasos entrenadores"
+ },
+ {
+  "id": "2",
+  "text": "Abarrotes y limpieza"
+ },
+ {
+  "id": "3",
+  "text": "> Despensa"
+ },
+ {
+  "id": "4",
+  "text": "> Abarrotes"
+ },
+ {
+  "id": "5",
+  "text": "> Cigarrillos"
+ }
+]

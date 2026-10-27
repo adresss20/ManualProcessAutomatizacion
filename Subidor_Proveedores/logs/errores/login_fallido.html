@@ -1,0 +1,11 @@
+<!DOCTYPE html><html><head></head><body>
+<form id="login-form-new"><input type="hidden" name="_token" value="t" style=""><input type="text" name="username" id="username" style="">
+<div id="password-wrapper" style="display: block;"><input id="password-field" type="password" name="password" style=""></div>
+<div id="error-msg" style="display:none"></div>
+<button class="btn login_continue_btn" type="submit">Continuar</button></form>
+<script>const F=document.getElementById('login-form-new');F.addEventListener('submit',e=>{e.preventDefault();
+const w=document.getElementById('password-wrapper');const body=new URLSearchParams(new FormData(F)).toString();
+const H={'Content-Type':'application/x-www-form-urlencoded'};
+if(w.style.display=='none'){fetch('/user/check-valid-email',{method:'POST',headers:H,body}).then(()=>{w.style.display='block'})}
+fetch('/user/loginViaUsername',{method:'POST',headers:H,body}).then(r=>r.json()).then(j=>{if(j.status=='Success')location.href=j.data.redirect_to;})})</script>
+</body></html>
